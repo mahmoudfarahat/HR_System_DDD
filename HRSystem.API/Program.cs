@@ -3,6 +3,11 @@ using HRSystem.API.GraphQl;
 using Microsoft.EntityFrameworkCore;
 using HRSystem.Infrastructure.Data;
 using HRSystem.Application.Services;
+using HRSystem.Application.Commands;
+using HRSystem.Domain;
+using HRSystem.Infrastructure;
+using MediatR;
+
 
 namespace HRSystem.API
 {
@@ -21,6 +26,11 @@ namespace HRSystem.API
                              options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             builder.Services.AddScoped<IOrderService, OrderService>();
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
+            builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+
+            builder.Services.AddMediatR(typeof(CreateProductCommand).Assembly);
+            builder.Services.AddMediatR(typeof(CreateEmployeeCommand).Assembly);
 
             builder.Services
            .AddGraphQLServer()

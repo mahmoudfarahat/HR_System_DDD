@@ -9,3 +9,15 @@ C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Domain\obj\Debug\net9.0\HRSystem
 C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Domain\obj\Debug\net9.0\refint\HRSystem.Domain.dll
 C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Domain\obj\Debug\net9.0\HRSystem.Domain.pdb
 C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Domain\obj\Debug\net9.0\ref\HRSystem.Domain.dll
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\bin\Debug\net9.0\HRSystem.Domain.deps.json
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\bin\Debug\net9.0\HRSystem.Domain.dll
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\bin\Debug\net9.0\HRSystem.Domain.pdb
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\HRSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\HRSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\HRSystem.Domain.AssemblyInfo.cs
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\HRSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\HRSystem.Domain.sourcelink.json
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\HRSystem.Domain.dll
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\refint\HRSystem.Domain.dll
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\HRSystem.Domain.pdb
+C:\Users\mahmoud-Farhat\Desktop\HR_System_DDD\HRSystem.Domain\obj\Debug\net9.0\ref\HRSystem.Domain.dll
