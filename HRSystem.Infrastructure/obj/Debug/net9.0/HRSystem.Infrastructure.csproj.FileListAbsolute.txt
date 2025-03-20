@@ -1,0 +1,17 @@
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\bin\Debug\net9.0\HRSystem.Infrastructure.deps.json
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\bin\Debug\net9.0\HRSystem.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\bin\Debug\net9.0\HRSystem.Infrastructure.pdb
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\bin\Debug\net9.0\HRSystem.Domain.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\bin\Debug\net9.0\HRSystem.Domain.pdb
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.73B4B422.Up2Date
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\refint\HRSystem.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.Infrastructure.pdb
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Infrastructure\obj\Debug\net9.0\ref\HRSystem.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\HRsystem\HRSystem.Infrastructure\bin\Debug\net9.0\HRSystem.Infrastructure.runtimeconfig.json
+C:\Users\Mahmoud\source\repos\HRsystem\HRSystem.Infrastructure\obj\Debug\net9.0\HRSystem.Infrastructure.genruntimeconfig.cache

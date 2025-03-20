@@ -1,0 +1,17 @@
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\bin\Debug\net9.0\HRSystem.Application.deps.json
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\bin\Debug\net9.0\HRSystem.Application.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\bin\Debug\net9.0\HRSystem.Application.pdb
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\bin\Debug\net9.0\HRSystem.Domain.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\bin\Debug\net9.0\HRSystem.Infrastructure.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\bin\Debug\net9.0\HRSystem.Domain.pdb
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\bin\Debug\net9.0\HRSystem.Infrastructure.pdb
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\HRSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\HRSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\HRSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\HRSystem.Application.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\HRSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\HRSystem.633E9773.Up2Date
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\HRSystem.Application.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\refint\HRSystem.Application.dll
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\HRSystem.Application.pdb
+C:\Users\Mahmoud\source\repos\HRSystem\HRSystem.Application\obj\Debug\net9.0\ref\HRSystem.Application.dll
